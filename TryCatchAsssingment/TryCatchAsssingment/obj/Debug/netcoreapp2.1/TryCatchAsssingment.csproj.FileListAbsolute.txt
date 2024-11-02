@@ -1,0 +1,11 @@
+C:\Users\danielmieleniewski\source\repos\TryCatchAsssingment\TryCatchAsssingment\bin\Debug\netcoreapp2.1\TryCatchAsssingment.deps.json
+C:\Users\danielmieleniewski\source\repos\TryCatchAsssingment\TryCatchAsssingment\bin\Debug\netcoreapp2.1\TryCatchAsssingment.runtimeconfig.json
+C:\Users\danielmieleniewski\source\repos\TryCatchAsssingment\TryCatchAsssingment\bin\Debug\netcoreapp2.1\TryCatchAsssingment.runtimeconfig.dev.json
+C:\Users\danielmieleniewski\source\repos\TryCatchAsssingment\TryCatchAsssingment\bin\Debug\netcoreapp2.1\TryCatchAsssingment.dll
+C:\Users\danielmieleniewski\source\repos\TryCatchAsssingment\TryCatchAsssingment\bin\Debug\netcoreapp2.1\TryCatchAsssingment.pdb
+C:\Users\danielmieleniewski\source\repos\TryCatchAsssingment\TryCatchAsssingment\obj\Debug\netcoreapp2.1\TryCatchAsssingment.csprojAssemblyReference.cache
+C:\Users\danielmieleniewski\source\repos\TryCatchAsssingment\TryCatchAsssingment\obj\Debug\netcoreapp2.1\TryCatchAsssingment.csproj.CoreCompileInputs.cache
+C:\Users\danielmieleniewski\source\repos\TryCatchAsssingment\TryCatchAsssingment\obj\Debug\netcoreapp2.1\TryCatchAsssingment.AssemblyInfoInputs.cache
+C:\Users\danielmieleniewski\source\repos\TryCatchAsssingment\TryCatchAsssingment\obj\Debug\netcoreapp2.1\TryCatchAsssingment.AssemblyInfo.cs
+C:\Users\danielmieleniewski\source\repos\TryCatchAsssingment\TryCatchAsssingment\obj\Debug\netcoreapp2.1\TryCatchAsssingment.dll
+C:\Users\danielmieleniewski\source\repos\TryCatchAsssingment\TryCatchAsssingment\obj\Debug\netcoreapp2.1\TryCatchAsssingment.pdb
